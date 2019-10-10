@@ -11,3 +11,7 @@ This webapp checks if given letters are present in the words given by user.
 - Saving the web requests from user on a file.
 - Deploying and hosing my webapp on the cloud, PythonAnywhere.
 - Creating my own distribution packages and using them in other files.
+
+# How to Use:
+You can access the site at:
+- http://j1atishay.pythonanywhere.com/
